@@ -1,22 +1,22 @@
-<h1 align="center">Hi, I'm Abakar üëã</h1>
-<p align="center"><em>Cinematographer ¬∑ Photographer ¬∑ Video & content</em></p>
+<h1 align="center">Hi, I'm Abakar 👋</h1>
+<p align="center"><em>Cinematographer · Photographer · Video & content</em></p>
 
 <p align="center">
-  <a href="https://abakarmah1-portfolio.netlify.app"><b>üåê View my portfolio</b></a>
+  <a href="https://abakarmah1-portfolio.netlify.app"><b>🌐 View my portfolio</b></a>
 </p>
 
 ---
 
-### üé¨ About me
-- üé• I'm a **cinematographer with 10+ years of experience**, self-taught and shaped by real productions
-- üåç I've worked on local and international projects across **Saudi Arabia, Dubai, Bahrain and Argentina**
-- üí° My skills: **cinematography, lighting, sound and editing**, on all types of cinema cameras
-- üéì I'm currently studying a **Bachelor's in Broadcasting and Television**
-- üåê My portfolio (photo, video & interviews): **[abakarmah1-portfolio.netlify.app](https://abakarmah1-portfolio.netlify.app)**
-- üì∏ Instagram: **[@abakar_mah2](https://instagram.com/abakar_mah2)** (photo) ¬∑ **[@abakar_mah1](https://instagram.com/abakar_mah1)** (video)
-- üì´ How to reach me: **abkarkooso@gmail.com** or message me on GitHub
+### 🎬 About me
+- 🎥 I'm a **cinematographer with 10+ years of experience**, self-taught and shaped by real productions
+- 🌍 I've worked on local and international projects across **Saudi Arabia, Dubai, Bahrain and Argentina**
+- 💡 My skills: **cinematography, lighting, sound and editing**, on all types of cinema cameras
+- 🎓 I'm currently studying a **Bachelor's in Broadcasting and Television**
+- 🌐 My portfolio (photo, video & interviews): **[abakarmah1-portfolio.netlify.app](https://abakarmah1-portfolio.netlify.app)**
+- 📸 Instagram: **[@abakar_mah2](https://instagram.com/abakar_mah2)** (photo) · **[@abakar_mah1](https://instagram.com/abakar_mah1)** (video)
+- 📫 How to reach me: **abkarkooso@gmail.com** or message me on GitHub
 
-### üõ†Ô∏è Tools I use
+### 🛠️ Tools I use
 **Video**  
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=flat&logo=davinciresolve&logoColor=white)
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat&logo=capcut&logoColor=white)
@@ -34,4 +34,4 @@
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
 
 ---
-<p align="center">‚≠ê Thanks for stopping by!</p>
+<p align="center">⭐ Thanks for stopping by!</p>
